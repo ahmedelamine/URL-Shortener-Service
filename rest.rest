@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.amazon.com/Yards-Elastic-Band-DIY-Mask/dp/B0873WTQ7T/ref=sr_1_1?crid=KGZWN4XHO30O&dchild=1&keywords=elastic+bands+for+sewing&qid=1587650877&sprefix=e%2Caps%2C739&sr=8-1"
+}
